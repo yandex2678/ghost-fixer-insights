@@ -1,12 +1,14 @@
-# Ghost Fixer Insights
+# Madauros Code Hub
 
-check this repos https://github.com/nassim8687/ghost-fixer-buddy it was imported than there were commits to fix a build fail on vercel. Ca you give me exact files and their location in the repos modified to fix the build?
+import a project from GitHub https://github.com/madauros/madauros
 
 This project was built with [Lovable](https://lovable.dev).
 
+**Live app**: https://friendly-ghost-importer.lovable.app
+
 ## Build with Lovable
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/885600b8-d556-495c-9e82-ae7d477982d9).
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/85336615-0514-4ebf-9808-5e4a12c22dfc).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
 - **Stay in sync**: every change made in Lovable is committed straight to this repository.
